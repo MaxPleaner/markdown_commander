@@ -12,6 +12,8 @@ Install its dependencies with `bundle`, then start it with `bundle exec ruby sta
 
 By default, it will run on `localhost:1776`, but you can also run it on custom port / host:
 
+If you go to the root page you will see a directory of your markdown files. Just click one to load it.
+
 ```ruby
 env APP_HOST='0.0.0.0' APP_PORT='2016' bundle exec ruby start_server.rb`
 ```
