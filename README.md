@@ -8,8 +8,6 @@ This is a note-taking system with embeddable code.
 
 The code can be loaded by another program.
 
-Macros are possible.
-
 **To Run**
 
 1. `clone`
