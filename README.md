@@ -2,10 +2,6 @@ Markdown Commander
 
 ---
 
-**Test Suite**
-
-Run `rspec`
-
 **About**
 
 This is a note-taking system with embeddable code.
